@@ -37,7 +37,3 @@ Records are not just stored in memory; the system handles the full data lifecycl
 
 ---
 
-## 🛠️ Best Practices Followed
-* [cite_start]**Memory Management**: Proper closing of file streams[cite: 206].
-* [cite_start]**Data Integrity**: Binary search is only performed on data sorted by ID[cite: 199].
-* [cite_start]**Code Quality**: Avoided hardcoded paths for file operations to ensure portability[cite: 205].
